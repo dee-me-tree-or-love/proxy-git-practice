@@ -1,0 +1,4 @@
+module.exports = function() {
+  let result = {"Jane": "Hello everyone!"};
+  return result;
+}
